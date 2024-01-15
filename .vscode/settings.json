@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/c4616a3e-de51-40c2-8443-20e32fe26079/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Orchestrateur-Bot-Detector",
+    "appService.deploySubpath": "."
+}
